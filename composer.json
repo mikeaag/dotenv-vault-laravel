@@ -1,5 +1,5 @@
 {
-    "name": "davidcochrum/dotenv-vault-laravel",
+    "name": "mikeaag/dotenv-vault-laravel",
     "description": "Laravel package to load environment variables from encrypted .env.vault files",
     "keywords": [
         "configurations",
